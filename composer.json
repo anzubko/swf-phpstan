@@ -1,0 +1,21 @@
+{
+    "name": "anzubko/swf-phpstan",
+    "description": "Simplest framework PHPStan rules",
+    "type": "phpstan-extension",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "SWF\\PHPStan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrian Zubko",
+            "email": "ondr@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "phpstan/phpstan": "^1"
+    }
+}

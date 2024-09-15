@@ -1,0 +1,5 @@
+services:
+	-
+		class: SWF\PHPStan\Type\InstanceDynamicReturnTypeExtension
+		tags:
+			- phpstan.broker.dynamicFunctionReturnTypeExtension
