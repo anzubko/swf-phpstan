@@ -1,6 +1,6 @@
 # Simplest framework PHPStan rules
 
-For reference only, because the module is under development.
+This is part of Simplest framework.
 
 ## Installation
 
